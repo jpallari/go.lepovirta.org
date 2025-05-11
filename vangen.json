@@ -1,0 +1,13 @@
+{
+    "domain": "go.lepovirta.org",
+    "repositories": [
+        {
+            "prefix": "otk",
+            "url": "https://github.com/jpallari/otk"
+        },
+        {
+            "prefix": "keruu",
+            "url": "https://github.com/jpallari/keruu"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+body {
+  background-color: #101D42;
+  color: #EBEBEB;
+  font-family: monospace;
+  padding: 0 20px;
+}
+
+h1, h2, h3, p, pre {
+  margin: 20px 0;
+}
+
+a {
+  color: #00F5DC;
+}
+
+code {
+  border: 1px solid #2847A4;
+  padding: 10px;
+}
